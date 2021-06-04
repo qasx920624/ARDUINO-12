@@ -73,10 +73,10 @@ void loop() {
 ```
 --------------
 這是溫度濕度感測器<p>
-![image]()
+![image](https://github.com/qasx920624/ARDUINO-12/blob/main/3C4044DA-44CB-42DF-8E6A-6E698F04062A.jpeg)
 -------------------
 這是觀測畫面<p>
-![image]()
+![image](https://github.com/qasx920624/ARDUINO-12/blob/main/7E3DBEB4-609E-437F-8393-B83B2E7E9B6E.png)
 -------------------
 這是如果高於27°C的板子動作
-![image]()
+![image](https://github.com/qasx920624/ARDUINO-12/blob/main/E705BC6F-0C21-4B08-9C92-9E5173A76826.jpeg)
